@@ -27,7 +27,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Africa/Nairobi
 
 include:
   - _pages
@@ -55,18 +55,18 @@ plugins:
 
 author:
   name   : "Violet Joy Owino"
-  avatar : "/assets/profile photo.PNG"
+  avatar : "/assets/profile_photo.png"
   bio    : "Passionate in turning complex data into smart solutions, always learning and exploring."
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
      # url: "https://"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-Linkedin-square"
-      url: "www.linkedin.com/in/violet-owino-aa2317310"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/violet-owino-aa2317310"
     - label: "GitHub"
-      icon: "https://github.com/Violet-joy"
-      url: "https://github.com/"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Violet-joy"
     - label: "Word press"
       icon: "fab fa-fw fa-Word press"
       url: "http://violetjoy9.wordpress.com"
