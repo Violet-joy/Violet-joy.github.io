@@ -1,8 +1,40 @@
 ---
-permalink: /Resume/
 title: "Resume"
+permalink: /resume/
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Education
+**Bachelor of Science in Statistics**  
+Egerton University, 2021–2024
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Work Experience
+### Mentor – CFK Africa  
+**Jan 2021 – Present**  
+- Facilitated mentorship sessions during holidays for high school graduates.  
+- Conducted career talks to inspire academic and professional growth.  
+- Supported continuing students through tutoring and academic workshops.
+
+### Data Clerk – CFK Africa  
+**Aug 2024 – Sep 2024**  
+- Accurately inputted, sorted, and verified data into organizational databases.  
+- Ensured data consistency and completeness for efficient reporting.  
+- Assisted in categorizing data formats, enhancing ease of access and analysis.
+
+### Attachee – National Transport and Safety Authority (NTSA)  
+**May 2023 – Aug 2023**  
+- Entered, updated, and maintained accurate records in databases and spreadsheets.  
+- Verified data integrity to support decision-making processes.  
+- Contributed to data sorting and formatting for analytical reporting.
+
+### Certifications
+- **Certificate in R Programming** – Egerton University  
+  *Nov 2022*
+
+## Skills
+- **Programming**:R,   
+- **Data Visualization**: Power BI, Tableau  
+- **Tools**: Excel 
+- **Soft Skills**: Communication, Problem-Solving, Teamwork ,Leadership
+
