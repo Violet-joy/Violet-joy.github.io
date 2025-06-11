@@ -1,42 +1,86 @@
----
-title: "Resume"
-permalink: /resume/
-layout: single
-author_profile: true
----
 
-## Education
+### Project Title: Data Wrangling Assignment
 
-**Bachelor of Science in Statistics**  
-Egerton University, 2021–2024
+**Description:**  
+This project involved cleaning, transforming, and preparing raw datasets for analysis using Python and pandas. Tasks included handling missing values, standardizing formats, and merging multiple datasets to enable meaningful insights.
 
-## Work Experience
+**Tools Used:**  
+- Python  
+- pandas  
+- Jupyter Notebook
 
-### Mentor – CFK Africa  
-**Jan 2021 – Present**  
-- Facilitated mentorship sessions during holidays for high school graduates  
-- Conducted career talks to inspire academic and professional growth  
-- Supported students through tutoring and academic workshops
+**Key Outcomes:**  
+- Improved data quality and consistency  
+- Created reusable data wrangling functions  
+- Generated structured outputs ready for visualization
 
-### Data Clerk – CFK Africa  
-**Aug 2024 – Sep 2024**  
-- Entered, sorted, and verified data into organizational databases  
-- Ensured data consistency and completeness for reporting  
-- Helped categorize data for easier access and analysis
+[Download Report (PDF)](/assets/Data%20Wrangling%20Assignment%202.pdf)
 
-### Attachee – National Transport and Safety Authority (NTSA)  
-**May 2023 – Aug 2023**  
-- Maintained accurate records in databases and spreadsheets  
-- Verified data integrity to support decision-making  
-- Assisted with data sorting and formatting for reports
+### Project Title: Exploratory Data Analysis Assignment
 
-## Certifications
+**Description:**  
+In this project, I performed exploratory data analysis (EDA) on a given dataset to uncover patterns, detect anomalies, test hypotheses, and check assumptions using summary statistics and visualizations.
 
-- **Certificate in R Programming** – Egerton University *(Nov 2022)*
+**Tools Used:**  
+- Python  
+- pandas  
+- matplotlib & seaborn  
+- Jupyter Notebook
 
-## Skills
+**Key Outcomes:**  
+- Identified key trends and insights in the data  
+- Visualized relationships and distributions effectively  
+- Developed a better understanding of data preprocessing for analysis
 
-- **Programming**: R  
-- **Data Visualization**: Power BI, Tableau  
-- **Tools**: Excel  
-- **Soft Skills**: Communication, Problem Solving, Teamwork, Leadership
+[Download Report (PDF)](/assets/Explanatory%20Data%20Analysis%20Assignment%203.pdf)
+
+### Exploratory Data Analysis Assignment 3
+
+**Description:**  
+This project involved conducting an in-depth exploratory data analysis (EDA) on a structured dataset to extract meaningful insights. The analysis included data cleaning, handling missing values, generating summary statistics, and creating visualizations to explore data patterns and correlations.
+
+**Tools & Technologies Used:**  
+- Python  
+- pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook
+
+**Key Learnings:**  
+- Practical experience in real-world EDA techniques  
+- Improved skills in visualization and data storytelling  
+- Enhanced understanding of data preparation for modeling
+
+[Download Project Report (PDF)](/assets/Explanatory%20Data%20Analysis%20Assignment%203.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
