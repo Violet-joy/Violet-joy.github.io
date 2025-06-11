@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Violet Joy Owino"
 header:
   overlay_color: "#000"
