@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-permalink: /contact/
+title: "Contact info"
+permalink: /contact-info/
 layout: single
 author_profile: true
 ---
