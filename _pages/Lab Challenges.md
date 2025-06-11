@@ -1,21 +1,22 @@
 ---
 title: "Lab Challenges"
-permalink: /Lab Challenges/
+permalink: /lab-challenges/
 author_profile: true
 ---
+
 ## Challenge: Trend Analysis of Incidence and Major Causes of Road Accidents in Kenya
 
 **Problem Statement:**  
-This lab challenge aimed to analyze road accident data in Kenya to identify patterns in incidence rates and uncover the major causes contributing to these accidents over time.
+This lab challenge focused on analyzing road accident data in Kenya to identify trends in incident rates and uncover the major causes contributing to accidents over time.
 
 **Approach:**  
-I collected and cleaned publicly available datasets from government transport and safety authorities. Using Excel and R, I created visualizations to analyze temporal trends, regional differences, and contributing factors. I used Excel functions for calculations and filtering insights.
+I gathered and cleaned publicly available datasets from national transport and safety agencies. The analysis was carried out using Microsoft Excel and R. Visualizations were created to explore temporal trends, regional variations, and underlying causes. Excel functions supported calculations and filtering, while R provided more advanced visualizations.
 
 **Tools & Technologies Used:**  
 - Microsoft Excel  
-- R
+- R (ggplot2, dplyr)
 
 **Key Lessons Learned:**  
-- How to clean and transform raw data for analysis  
-- Developed skills in time series and categorical data visualization  
-- Learned how to draw insights for policymaking and public safety improvement
+- Cleaned and transformed raw datasets for effective analysis  
+- Gained experience with time-series and categorical data visualization  
+- Learned to derive actionable insights to support data-driven policymaking
