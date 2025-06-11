@@ -1,6 +1,6 @@
-
+---
 ### Project Title: Data Wrangling Assignment
-
+---
 **Description:**  
 This project involved cleaning, transforming, and preparing raw datasets for analysis using Python and pandas. Tasks included handling missing values, standardizing formats, and merging multiple datasets to enable meaningful insights.
 
