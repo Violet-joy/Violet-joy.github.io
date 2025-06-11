@@ -18,7 +18,7 @@ This project involved cleaning, transforming, and preparing raw datasets for ana
 - Created reusable data wrangling functions  
 - Generated structured outputs ready for visualization
 
-[Download Report (PDF)](/assets/Data Wrangling Assignment 2.pdf)
+[Download Report (PDF)](/(/assets/Data%20Wrangling%20Assignment%202.pdf))
 
 
 
