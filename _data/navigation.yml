@@ -3,7 +3,7 @@ main:
     url: /Resume/
   - title: "Projects"
     url: /Projects/
-  - title: "Write ups"
-    url: /Write ups/
+  - title: "Lab Challenges"
+    url: /Lab Challenges/
   - title: "Contact info"
     url: /Contact info/
