@@ -5,7 +5,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image:"assets/profile_photo.png"
- <img src="/assets/profile_photo.png"width="200"/>
   caption: "Data Analyst & Data Science Enthusiast"
 excerpt: "Driven data analyst and aspiring data scientist, passionate about innovation, continuous learning, and delivering impactful insights through data."
 author_profile: true
