@@ -34,7 +34,7 @@ Egerton University, 2021–2024
 
 ## Skills
 - **Programming**:R,   
-- **Data Visualization**: Power BI, Tableau  
+- **Data Visualization**:Power BI,Tableau  
 - **Tools**: Excel 
-- **Soft Skills**: Communication, Problem-Solving, Teamwork ,Leadership
+- **Soft Skills**:Communication,Problem-Solving,Teamwork,Leadership
 
