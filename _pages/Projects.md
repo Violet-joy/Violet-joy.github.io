@@ -55,7 +55,7 @@ This project focused on using Microsoft Power BI to transform raw hotel manageme
 - Gained practical experience in data visualization and storytelling  
 - Strengthened understanding of BI tools for real-world applications
 
-[📄 Download Project Report (PDF)](/assets/Business%20Intelligence%20on%20Power%20BI%20Assignment%20%281%29.pdf)
+[Download Project Report (PDF)](/assets/Business%20Intelligence%20on%20Power%20BI%20Assignment%20%281%29.pdf)
 
 
 
