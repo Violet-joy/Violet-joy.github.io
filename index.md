@@ -13,7 +13,7 @@ author_profile: true
  A data analyst and data science enthusiast with a passion for solving real-world problems using data. 
 - **[Resume](resume)**
 - **[Projects](projects)**
-- **[Writeups](labs)**
+- **[Write ups](labs)**
 - **[Contact Info](contact)**
 
 
