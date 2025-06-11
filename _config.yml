@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Violet Joy Owino"
-  avatar : ""
+  avatar : "/assets/profile photo.PNG"
   bio    : "Passionate in turning complex data into smart solutions, always learning and exploring."
   links:
     #- label: "Website"
