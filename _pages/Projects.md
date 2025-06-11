@@ -1,63 +1,42 @@
 ---
-title: "Projects"
-permalink: /Projects/
+title: "Resume"
+permalink: /resume/
+layout: single
 author_profile: true
 ---
- ### Project Title: Data Wrangling 
 
-**Description:**  
-This project involved cleaning, transforming, and preparing raw datasets for analysis using Python and pandas. Tasks included handling missing values, standardizing formats and merging multiple datasets to enable meaningful insights.
+## Education
 
-**Tools Used:**  
-- Python  
-- pandas  
-- Jupyter Notebook
+**Bachelor of Science in Statistics**  
+Egerton University, 2021–2024
 
-**Key Outcomes:**  
-- Improved data quality and consistency  
-- Created reusable data wrangling functions  
-- Generated structured outputs ready for visualization
+## Work Experience
 
-[Download Report (PDF)](/(/assets/Data%20Wrangling%20Assignment%202.pdf))
+### Mentor – CFK Africa  
+**Jan 2021 – Present**  
+- Facilitated mentorship sessions during holidays for high school graduates  
+- Conducted career talks to inspire academic and professional growth  
+- Supported students through tutoring and academic workshops
 
+### Data Clerk – CFK Africa  
+**Aug 2024 – Sep 2024**  
+- Entered, sorted, and verified data into organizational databases  
+- Ensured data consistency and completeness for reporting  
+- Helped categorize data for easier access and analysis
 
-### Project Title: Exploratory Data Analysis Assignment
+### Attachee – National Transport and Safety Authority (NTSA)  
+**May 2023 – Aug 2023**  
+- Maintained accurate records in databases and spreadsheets  
+- Verified data integrity to support decision-making  
+- Assisted with data sorting and formatting for reports
 
-**Description:**  
-In this project, I performed exploratory data analysis (EDA) on a given dataset to uncover patterns, detect anomalies, test hypotheses, and check assumptions using summary statistics and visualizations.
+## Certifications
 
-**Tools Used:**  
-- Python  
-- pandas  
-- matplotlib & seaborn  
-- Jupyter Notebook
+- **Certificate in R Programming** – Egerton University *(Nov 2022)*
 
-**Key Outcomes:**  
-- Identified key trends and insights in the data  
-- Visualized relationships and distributions effectively  
-- Developed a better understanding of data preprocessing for analysis
+## Skills
 
-[Download Report (PDF)](/assets/Explanatory%20Data%20Analysis%20Assignment%203.pdf)
-
-### Business Intelligence on Power BI Assignment
-
-**Description:**  
-This project focused on using Microsoft Power BI to transform raw hotel management data into insightful dashboards and reports. It included data cleaning, modeling, and visualization to support decision-making processes for key stakeholders.
-
-**Tools & Technologies Used:**  
-- Microsoft Power BI  
-- DAX (Data Analysis Expressions)  
-- Power Query  
-- Data Modeling techniques
-
-**Key Learnings:**  
-- Developed interactive dashboards for business insights  
-- Gained practical experience in data visualization and storytelling  
-- Strengthened understanding of BI tools for real-world applications
-
-[Download Project Report (PDF)](/assets/Business%20Intelligence%20on%20Power%20BI%20Assignment%20%281%29.pdf)
-
-
-
-
-                       
+- **Programming**: R  
+- **Data Visualization**: Power BI, Tableau  
+- **Tools**: Excel  
+- **Soft Skills**: Communication, Problem Solving, Teamwork, Leadership
