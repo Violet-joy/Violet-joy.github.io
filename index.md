@@ -9,8 +9,7 @@ header:
 excerpt: "Driven data analyst and aspiring data scientist, passionate about innovation, continuous learning, and delivering impactful insights through data."
 author_profile: true
 ---
-
-Welcome to my professional portfolio. I am **Violet Joy Owino**, a data analyst and data science enthusiast with a passion for solving real-world problems using data. This site serves as my digital identity and showcases my journey, skills, and projects in the data field.
+ A data analyst and data science enthusiast with a passion for solving real-world problems using data. This site serves as my digital identity and showcases my journey, skills, and projects in the data field.
 
 Explore my:
 - **[Resume](resume)** to learn about my academic and professional background
