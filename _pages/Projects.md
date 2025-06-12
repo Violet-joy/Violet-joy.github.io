@@ -34,7 +34,7 @@ In this project, I performed exploratory data analysis (EDA) on a given dataset 
 
 [Download Report (PDF)](/assets/Explanatory%20Data%20Analysis%20Assignment%203.pdf)
 
-### Business Intelligence on Power BI Assignment
+### Project Title: Business Intelligence on Power BI Assignment
 
 **Description:**  
 This project focused on using Microsoft Power BI to transform raw hotel management data into insightful dashboards and reports. It included data cleaning, modeling, and visualization to support decision-making processes for key stakeholders.
