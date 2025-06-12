@@ -1,6 +1,6 @@
 nav:
   - title: "Home"
-    url: /
+    url: /home/
   - title: "Resume"
     url: /resume/
   - title: "Projects"
