@@ -2,6 +2,7 @@
 title: "Contact Info"
 permalink: /contact-info/
 layout: single
+author_profile: true
 ---
 
 - **Email:** [joyviolet652@gmail.com](mailto:joyviolet652@gmail.com)  
