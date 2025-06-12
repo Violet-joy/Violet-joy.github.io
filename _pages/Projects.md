@@ -34,26 +34,23 @@ In this project, I performed exploratory data analysis (EDA) on a given dataset 
 
 [Download Report (PDF)](/assets/Explanatory%20Data%20Analysis%20Assignment%203.pdf)
 
-### Exploratory Data Analysis Assignment 3
+### Business Intelligence on Power BI Assignment
 
 **Description:**  
-This project involved conducting an in-depth exploratory data analysis (EDA) on a structured dataset to extract meaningful insights. The analysis included data cleaning, handling missing values, generating summary statistics, and creating visualizations to explore data patterns and correlations.
+This project focused on using Microsoft Power BI to transform raw hotel management data into insightful dashboards and reports. It included data cleaning, modeling, and visualization to support decision-making processes for key stakeholders.
 
 **Tools & Technologies Used:**  
-- Python  
-- pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook
+- Microsoft Power BI  
+- DAX (Data Analysis Expressions)  
+- Power Query  
+- Data Modeling techniques
 
 **Key Learnings:**  
-- Practical experience in real-world EDA techniques  
-- Improved skills in visualization and data storytelling  
-- Enhanced understanding of data preparation for modeling
+- Developed interactive dashboards for business insights  
+- Gained practical experience in data visualization and storytelling  
+- Strengthened understanding of BI tools for real-world applications
 
-[Download Project Report (PDF)](/assets/Explanatory%20Data%20Analysis%20Assignment%203.pdf)
-
+[Download Project Report (PDF)](/assets/Business%20Intelligence%20on%20Power%20BI%20Assignment%20%281%29.pdf)
 
 
 
