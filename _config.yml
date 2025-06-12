@@ -51,9 +51,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Violet-joy"
-    - label: "WordPress"
-      icon: "fab fa-fw fa-wordpress"
-      url: "http://violetjoy9.wordpress.com"
+    #- label: "WordPress"
+      #icon: "fab fa-fw fa-wordpress"
+    #  url: "http://violetjoy9.wordpress.com"
 
 footer:
   links:
