@@ -9,8 +9,6 @@ author_profile: true
 **Bachelor of Science in Statistics**  
 *Egerton University, 2021–2024*
 
----
-
 ## Work Experience  
 
 ### Mentor – CFK Africa  
@@ -31,12 +29,8 @@ author_profile: true
 - Maintained accurate databases to support decision-making.  
 - Aided in sorting and formatting data for analytical reports.
 
----
-
 ## Certifications  
 - **Certificate in R Programming** – *Egerton University*, Nov 2022
-
----
 
 ## Skills  
 - **Programming**: R  
