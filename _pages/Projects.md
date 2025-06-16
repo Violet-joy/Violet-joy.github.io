@@ -56,8 +56,42 @@ This project focused on using Microsoft Power BI to transform raw hotel manageme
 
 [Download Project Report (PDF)](/assets/Business%20Intelligence%20on%20Power%20BI%20Assignment%20%281%29.pdf)
 
+### Project Title:Data Visualization using Tableau  
 
+**Description:** 
+This project involved creating insightful and interactive data visualizations using Tableau to analyze and communicate business intelligence from a structured dataset. The goal was to turn raw data into visually compelling stories that support decision-making.
 
+**Project Objective:**  
+To develop interactive dashboards and visual reports that help stakeholders easily understand trends, patterns, and anomalies in the data, enabling data-driven business decisions.
+
+**Approach:**  
+- Imported and cleaned the dataset in Tableau Prep.  
+- Identified key metrics and KPIs relevant to the business context.  
+- Designed interactive dashboards using filters, parameters, and calculated fields.  
+- Created various visualizations including bar charts, line graphs, maps, and pie charts.  
+- Focused on layout and visual aesthetics to enhance user experience and interpretation.  
+
+**Tools & Technologies Used:**  
+- Tableau Desktop  
+- Tableau Public (for publishing)  
+- Excel (for initial data preparation)
+
+**Key Visualizations:**  
+- Sales trends over time  
+- Regional performance heat maps  
+- Category-level analysis using bar and pie charts  
+- Customer segment performance dashboards
+
+**Key Lessons Learned:**  
+- Gained hands-on experience in using Tableau for data visualization and storytelling  
+- Learned to structure dashboards that communicate insights clearly and concisely  
+- Improved skills in designing user-friendly interfaces with interactive elements  
+- Understood the value of visual analytics in strategic decision-making
+
+**Outcome:**  
+The final dashboards provided clear insights into business performance across different regions and customer segments. These visualizations allowed users to interact with the data and derive meaningful insights with minimal effort.
+
+[Download Project Report (PDF)](assets/Data%20Visualization%20using%20Tableau.pdf)
 
 
 
