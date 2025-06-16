@@ -5,7 +5,7 @@ layout: single
 ---
 ### Project Title: Data Wrangling 
 
-**Description:**  
+ **Description:**   
 This project involved cleaning, transforming, and preparing raw datasets for analysis using Python and pandas. Tasks included handling missing values, standardizing formats, and merging multiple datasets to enable meaningful insights.
 
 **Tools Used:**  
@@ -58,7 +58,7 @@ This project focused on using Microsoft Power BI to transform raw hotel manageme
 
 ### Project Title: Data Visualization using Tableau  
 
-**Description:** 
+**Description:**  
 This project involved creating insightful and interactive data visualizations using Tableau to analyze and communicate business intelligence from a structured dataset. The goal was to turn raw data into visually compelling stories that support decision-making.
 
 **Project Objective:**  
