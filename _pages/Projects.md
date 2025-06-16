@@ -3,7 +3,7 @@ title: "Projects"
 permalink: /projects/
 layout: single
 ---
-### Project Title: Data Wrangling Assignment
+### Project Title: Data Wrangling 
 
 **Description:**  
 This project involved cleaning, transforming, and preparing raw datasets for analysis using Python and pandas. Tasks included handling missing values, standardizing formats, and merging multiple datasets to enable meaningful insights.
@@ -20,7 +20,7 @@ This project involved cleaning, transforming, and preparing raw datasets for ana
 
 [Download Report (PDF)](/assets/Data%20Wrangling%20Assignment%202.pdf)
 
-### Project Title: Exploratory Data Analysis Assignment
+### Project Title: Exploratory Data Analysis 
 
 **Description:**  
 In this project, I performed exploratory data analysis (EDA) on a given dataset to uncover patterns, detect anomalies, test hypotheses, and check assumptions using summary statistics and visualizations.
@@ -38,7 +38,7 @@ In this project, I performed exploratory data analysis (EDA) on a given dataset 
 
 [Download Report (PDF)](/assets/Explanatory%20Data%20Analysis%20Assignment%203.pdf)
 
-### Project Title: Business Intelligence on Power BI Assignment
+### Project Title: Business Intelligence on Power BI 
 
 **Description:**  
 This project focused on using Microsoft Power BI to transform raw hotel management data into insightful dashboards and reports. It included data cleaning, modeling, and visualization to support decision-making processes for key stakeholders.
@@ -56,7 +56,7 @@ This project focused on using Microsoft Power BI to transform raw hotel manageme
 
 [Download Project Report (PDF)](/assets/Business%20Intelligence%20on%20Power%20BI%20Assignment%20%281%29.pdf)
 
-### Project Title:Data Visualization using Tableau  
+### Project Title: Data Visualization using Tableau  
 
 **Description:** 
 This project involved creating insightful and interactive data visualizations using Tableau to analyze and communicate business intelligence from a structured dataset. The goal was to turn raw data into visually compelling stories that support decision-making.
