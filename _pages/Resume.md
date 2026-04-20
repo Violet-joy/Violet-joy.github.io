@@ -5,9 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Education  
-**Bachelor of Science in Statistics**  
-*Egerton University, 2021–2024*
 
 ## Work Experience  
 
@@ -29,6 +26,10 @@ author_profile: true
 - Maintained accurate databases to support decision-making.  
 - Aided in sorting and formatting data for analytical reports.
 
+## Education  
+**Bachelor of Science in Statistics**  
+*Egerton University, 2021–2024*
+
 ## Certifications  
 - **Certificate in R Programming** – *Egerton University*, Nov 2022
 - **Certificate in Data and AI** - *Cyber Shujaa* ,May 2025- Aug 2025
@@ -37,4 +38,4 @@ author_profile: true
 - **Programming**: R  
 - **Data Visualization**: Power BI, Tableau  
 - **Tools**: Microsoft Excel  
-- **Soft Skills**: Communication, Problem Solving, Teamwork, Leadership
+- **Soft Skills**: Communication, Problem Solving, Teamwork, Leadership, Productivity, Time Management
