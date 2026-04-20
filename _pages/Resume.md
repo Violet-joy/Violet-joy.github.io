@@ -18,7 +18,7 @@ author_profile: true
 - Tutored continuing students and organized academic skill workshops.
 
 ### Data Clerk – CFK Africa  
-**Aug 2024 – Sep 2024**  
+**Aug 2024 – Sep 2024** 
 - Entered, verified, and maintained organizational data records.  
 - Ensured accuracy, consistency, and completeness of data entries.  
 - Helped organize and format data to support report generation.
@@ -31,6 +31,7 @@ author_profile: true
 
 ## Certifications  
 - **Certificate in R Programming** – *Egerton University*, Nov 2022
+- **Certificate in Data and AI** - *Cyber Shujaa* ,May 2025- Aug 2025
 
 ## Skills  
 - **Programming**: R  
