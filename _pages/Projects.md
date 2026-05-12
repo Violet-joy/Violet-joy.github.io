@@ -114,25 +114,21 @@ The project successfully demonstrated the application of Linear Regression in Py
 
 [Download Regression Models PDF](/assets/Regression%20Models.pdf)
 
+### Project Title: Linear Natural Language Processing with Transformers 
 
+## Introduction
+This project explored important concepts in Natural Language Processing (NLP) using a pre-trained BERT (Bidirectional Encoder Representations from Transformers) model from the Hugging Face Transformers library. The main focus was on understanding how transformer models process language through contextual embeddings, sentence encoding, and semantic similarity analysis.
+Unlike traditional NLP techniques such as Bag of Words and TF-IDF, which treat words as static representations, BERT generates contextualized embeddings that capture the meaning of words based on surrounding text. This allows the model to better understand semantic relationships, sentence structure, and words with multiple meanings depending on context.
+Using BERT, token-level embeddings were extracted and sentence similarity was calculated using cosine similarity on the `[CLS]` token representations. Ten sentence pairs, including both provided examples and custom-created pairs, were analyzed to evaluate semantic similarity. This process demonstrated how transformer-based models can distinguish between semantically related and unrelated sentences with greater accuracy than traditional approaches.
 
+The project also aimed at exploring the role of similarity thresholds in classification tasks and evaluated prediction accuracy against manually assigned labels. Through this practical implementation, the project provided deeper insight into transformer architectures, contextual language understanding and real-world NLP applications.
 
+**Tasks Completed:**  
+The project involved loading and implementing a pre-trained BERT model, preparing and organizing sentence pair datasets, generating contextual sentence embeddings, computing semantic similarity scores using cosine similarity and classifying sentence relationships based on defined similarity thresholds. Additional tasks included evaluating prediction performance against ground truth labels, analyzing model behavior across different sentence contexts, and summarizing the overall findings from the experiment.
 
+**Conclusion:**  
+This project successfully demonstrated the practical application of transformer-based NLP models using BERT for semantic similarity analysis. Through hands-on experimentation with contextual embeddings and cosine similarity, the project highlighted the advantages of transformer architectures in understanding language meaning and context.
 
+The implementation strengthened practical skills in modern NLP workflows, sentence representation techniques, and model evaluation methods. It also provided a clearer understanding of how contextual embeddings improve semantic interpretation in comparison to traditional NLP methods. Overall, the project contributed significantly to developing practical experience in Artificial Intelligence and Natural Language Processing using state-of-the-art transformer models.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Download Natural Language with Transformers PDF](/assets/Natural%20Language%20with%20Transformers.pdf)
