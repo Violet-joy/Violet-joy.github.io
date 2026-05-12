@@ -5,7 +5,7 @@ layout: single
 ---
 ### Project Title: Data Wrangling 
 
- **Description:**   
+ **Project Overview:**   
 This project involved cleaning, transforming, and preparing raw datasets for analysis using Python and pandas. Tasks included handling missing values, standardizing formats, and merging multiple datasets to enable meaningful insights.
 
 **Tools Used:**  
@@ -22,7 +22,7 @@ This project involved cleaning, transforming, and preparing raw datasets for ana
 
 ### Project Title: Exploratory Data Analysis 
 
-**Description:**  
+**Project Overview:**  
 In this project, I performed exploratory data analysis (EDA) on a given dataset to uncover patterns, detect anomalies, test hypotheses, and check assumptions using summary statistics and visualizations.
 
 **Tools Used:**  
@@ -40,7 +40,7 @@ In this project, I performed exploratory data analysis (EDA) on a given dataset 
 
 ### Project Title: Business Intelligence on Power BI 
 
-**Description:**  
+**Project Overview:**  
 This project focused on using Microsoft Power BI to transform raw hotel management data into insightful dashboards and reports. It included data cleaning, modeling, and visualization to support decision-making processes for key stakeholders.
 
 **Tools & Technologies Used:**  
@@ -58,7 +58,7 @@ This project focused on using Microsoft Power BI to transform raw hotel manageme
 
 ### Project Title: Data Visualization using Tableau  
 
-**Description:**  
+**Project Overview:**  
 This project involved creating insightful and interactive data visualizations using Tableau to analyze and communicate business intelligence from a structured dataset. The goal was to turn raw data into visually compelling stories that support decision-making.
 
 **Project Objective:**  
@@ -93,7 +93,24 @@ The final dashboards provided clear insights into business performance across di
 
 [Download Tableau Data Visualization Report](/assets/Data%20Visualization%20using%20Tableau.pdf)
 
+### Project Title: Linear Regression Models 
 
+**Project Overview:**  
+This project focused on applying Python Linear Regression techniques to a real-world dataset while following a complete machine learning workflow. The assignment aimed to strengthen practical understanding of data science concepts through hands-on implementation.
+
+**Tasks Completed:**  
+The project involved exploring the dataset, preparing and cleaning the data, building a Linear Regression model, evaluating model performance using standard metrics, visualizing predictions and regression results, and documenting the final work for sharing and portfolio purposes.
+
+**Key Outcomes:** 
+- Gained practical experience with Python Linear Regression
+- Applied a complete machine learning workflow
+- Improved data preprocessing and analysis skills
+- Learned how to evaluate model performance using metrics
+- Enhanced understanding through data visualization
+- Developed a professional portfolio project
+
+**Conclusion:**  
+The project successfully demonstrated the application of Linear Regression in Python using real-world data. It provided valuable experience in data exploration, model development, evaluation, and visualization while strengthening both technical and analytical skills in machine learning and data science.
 
 
 
