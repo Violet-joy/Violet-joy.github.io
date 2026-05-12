@@ -54,7 +54,7 @@ This project focused on using Microsoft Power BI to transform raw hotel manageme
 - Gained practical experience in data visualization and storytelling  
 - Strengthened understanding of BI tools for real-world applications
 
-[Download Project Report (PDF)](/assets/Business%20Intelligence%20on%20Power%20BI%20Assignment%20%281%29.pdf)
+[Download Business Intelligence Report](/assets/Business%20Intelligence%20on%20Power%20BI%20Assignment%20%20%281%29.pdf)
 
 ### Project Title: Data Visualization using Tableau  
 
@@ -91,7 +91,7 @@ To develop interactive dashboards and visual reports that help stakeholders easi
 **Outcome:**  
 The final dashboards provided clear insights into business performance across different regions and customer segments. These visualizations allowed users to interact with the data and derive meaningful insights with minimal effort.
 
-[Download Project Report (PDF)](assets/Data%20Visualization%20using%20Tableau.pdf)
+[Download Tableau Data Visualization Report](/assets/Data%20Visualization%20using%20Tableau.pdf)
 
 
 
