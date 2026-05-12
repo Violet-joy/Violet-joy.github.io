@@ -112,7 +112,7 @@ The project involved exploring the dataset, preparing and cleaning the data, bui
 **Conclusion:**  
 The project successfully demonstrated the application of Linear Regression in Python using real-world data. It provided valuable experience in data exploration, model development, evaluation, and visualization while strengthening both technical and analytical skills in machine learning and data science.
 
-
+[Download Regression Models PDF](/assets/Regression%20Models.pdf)
 
 
 
